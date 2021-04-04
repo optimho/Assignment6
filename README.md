@@ -1,5 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
-
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Assigment 6 is a file handling example in Dart.
+It opens a file and reads the contents searches for words, creates a file writes to that file and ultimately deletes the file.
